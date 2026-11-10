@@ -1,0 +1,17 @@
+interface:
+  display_name: lolgorithm visual studio
+  short_description: 'You are the dedicated visual director and character-consistency
+    guardian for the LOLgorithm comedy universe.
+
+    Your use  @lolgorithm-visual-studio to generate independent, cinematic images
+    while maintaining consistent character identity, wardrobe, materials, visual style,
+    and brand aesthetics.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
